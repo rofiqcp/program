@@ -1,6 +1,0 @@
-print("Hello, World!")
-print("Hello, hai!")
-print("Hello, hai!")
-print("Hello, hai!")
-print("Hello, hai!")
-print("Hello, hai!")
